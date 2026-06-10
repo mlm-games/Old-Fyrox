@@ -1,3 +1,5 @@
+## Old readme
+
 <div align="center">
   <a href="https://fyrox.rs/">
     <img src="pics/logo.png" width="128" height="128" alt="Fyrox" />
@@ -9,8 +11,7 @@
 [![CI Status](https://github.com/FyroxEngine/Fyrox/actions/workflows/ci.yml/badge.svg)](https://github.com/FyroxEngine/Fyrox/actions/workflows/ci.yml)
 [![Crates.io](https://img.shields.io/crates/v/fyrox)](https://crates.io/crates/fyrox)
 [![docs.rs](https://img.shields.io/badge/docs-website-blue)](https://docs.rs/Fyrox/)
-[![Discord](https://img.shields.io/discord/756573453561102427)](https://discord.gg/xENF5Uh)
-[![Lines of code](https://tokei.rs/b1/github/FyroxEngine/Fyrox)](https://github.com/FyroxEngine/Fyrox)
+[![Matrix](https://img.shields.io/matrix/unknown)](https://tobedecided.doesntexist)
 
 A feature-rich, production-ready, general purpose 2D/3D game engine written in Rust with a scene editor.
 _Formerly known as rg3d_
@@ -22,7 +23,6 @@ by "how to build" and ending by various tutorials.
 
 ## Community
 
-You can always ask your question in Discord server - [Join the Discord server](https://discord.gg/xENF5Uh), or directly in 
 [Discussions](https://github.com/FyroxEngine/Fyrox/discussions).
 
 ## Examples
